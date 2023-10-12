@@ -1,0 +1,1 @@
+Mirror entities lets you mirror things in your sketch. 

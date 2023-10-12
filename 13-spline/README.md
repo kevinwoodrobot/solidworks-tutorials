@@ -1,0 +1,1 @@
+Spline is used to draw organic looking curves. 

@@ -1,0 +1,1 @@
+Text lets you add text to a sketch. 

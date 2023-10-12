@@ -1,0 +1,1 @@
+Swept boss base lets you connect contours to form a solid. 

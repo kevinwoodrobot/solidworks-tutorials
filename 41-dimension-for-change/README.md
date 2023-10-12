@@ -1,0 +1,1 @@
+Dimension for change talks about how to dimension your parts so that it won't break when you modify your design. 

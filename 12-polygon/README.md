@@ -1,0 +1,1 @@
+Polygon is used to draw shapes with 3 or more sides. 

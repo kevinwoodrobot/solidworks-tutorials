@@ -1,0 +1,1 @@
+Part drawings goes into detail on how to make the drawing. 

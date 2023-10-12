@@ -1,0 +1,1 @@
+Lofted boss base let you connect between two contours in a more contrained path. 

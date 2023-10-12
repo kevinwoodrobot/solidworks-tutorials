@@ -1,0 +1,1 @@
+Lofted cut removes material by using two contours and the space between them. 

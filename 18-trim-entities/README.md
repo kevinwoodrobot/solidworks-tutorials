@@ -1,0 +1,1 @@
+Trim entities lets you trim your sketch. 

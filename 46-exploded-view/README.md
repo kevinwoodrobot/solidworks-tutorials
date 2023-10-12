@@ -1,0 +1,1 @@
+Exploded view can be used to see how parts will be assembled. 

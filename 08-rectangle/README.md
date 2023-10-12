@@ -1,0 +1,1 @@
+Rectangle tool can help you makes rectangles and squares. 

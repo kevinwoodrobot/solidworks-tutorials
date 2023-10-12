@@ -1,0 +1,1 @@
+Swept cut removes material by sweeping contour across a path. 

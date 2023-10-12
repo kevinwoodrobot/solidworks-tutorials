@@ -1,0 +1,1 @@
+Convert entities lets you copy sketches from one sketch to another. 

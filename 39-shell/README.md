@@ -1,0 +1,1 @@
+Shell removes material only leaving a thin layer. 

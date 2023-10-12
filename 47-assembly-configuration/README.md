@@ -1,0 +1,1 @@
+Assembly configurations are used when there are small difference between two or more assemblies. 

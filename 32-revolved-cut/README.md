@@ -1,0 +1,1 @@
+Revolved cut removed material in 3d by sweeping a contour about an axis. 

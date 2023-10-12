@@ -1,0 +1,1 @@
+Arc is used to draw a partial circle. 

@@ -1,0 +1,1 @@
+Sketch relations used to define different relationships between sketch entities. 

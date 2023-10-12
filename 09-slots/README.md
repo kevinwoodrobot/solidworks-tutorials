@@ -1,0 +1,1 @@
+Slots used to connect two circles with tangent lines. 

@@ -1,0 +1,1 @@
+Offset entities lets you offset a sketch by a specified amount. 
